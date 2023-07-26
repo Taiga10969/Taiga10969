@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Taiga</h1>
+# Hi 👋, I'm Taiga
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Taiga10969&label=Profile%20views&color=0e75b6&style=flat" alt="Taiga10969" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Taiga10969" alt="Taiga10969" /></a> </p>
