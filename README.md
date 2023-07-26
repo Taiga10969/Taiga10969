@@ -1,5 +1,4 @@
 ### Hi there 👋
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Taiga10969&label=Profile%20views&color=0e75b6&style=flat" alt="Taiga10969" /> </p>
 
