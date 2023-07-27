@@ -1,7 +1,7 @@
 # Hi 👋, I'm Taiga
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=Taiga10969&label=Profile%20views&color=0e75b6&style=flat" alt="Taiga10969" /> </p>-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Taiga10969&theme=onedark&label=Profile%20views&color=0e75b6&style=flat" alt="Taiga10969" /> </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Taiga10969&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Taiga10969" alt="Taiga10969" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
