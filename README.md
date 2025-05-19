@@ -3,7 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taiga10969&label=Profile%20views&color=0e75b6&style=flat" alt="taiga10969" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taiga10969" alt="taiga10969" /></a> </p>
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=Taiga10969&theme=gruvbox)
+
+
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taiga10969&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Taiga10969&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Taiga10969&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Taiga10969&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Taiga10969&theme=gruvbox&utcOffset=9)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
