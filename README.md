@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taiga10969&label=Profile%20views&color=0e75b6&style=flat" alt="taiga10969" /> </p>
 
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=Taiga10969&theme=gruvbox)
