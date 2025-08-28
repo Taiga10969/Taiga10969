@@ -6,7 +6,9 @@
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
 ## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=Taiga10969&theme=gruvbox)
+<!--![trophy](https://github-profile-trophy.vercel.app/?username=Taiga10969&theme=gruvbox)-->
+[![trophy](https://github-trophies.vercel.app/?username=Taiga10969&theme=gruvbox)](https://github.com/lucthienphong1120/github-trophies)
+
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taiga10969&theme=gruvbox)
