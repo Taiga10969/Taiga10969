@@ -1,4 +1,5 @@
-# Hi 👋, I'm Taiga：<a href="https://taiga10969.github.io"> My Profile </a> 
+# Hi 👋, I'm Taiga
+<!-- <a href="https://taiga10969.github.io"> My Profile </a>  -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taiga10969&label=Profile%20views&color=0e75b6&style=flat" alt="taiga10969" /> </p>
 
