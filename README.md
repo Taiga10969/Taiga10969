@@ -14,9 +14,9 @@
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taiga10969&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Taiga10969&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Taiga10969&theme=gruvbox)
+<!--![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Taiga10969&theme=gruvbox)-->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Taiga10969&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Taiga10969&theme=gruvbox&utcOffset=9)
+<!--![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Taiga10969&theme=gruvbox&utcOffset=9)-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
